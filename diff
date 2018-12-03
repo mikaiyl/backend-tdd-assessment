@@ -1,0 +1,12 @@
+usage: echo.py [-h] [-u] [-l] [-t] text
+
+Perform transformation on input text.
+
+positional arguments:
+  text         text to be manipulated
+
+optional arguments:
+  -h, --help   show this help message and exit
+  -u, --upper  converts text to uppercase
+  -l, --lower  converts text to lowercase
+  -t, --title  converts text to titlecase
